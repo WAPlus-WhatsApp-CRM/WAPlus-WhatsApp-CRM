@@ -4,6 +4,8 @@ WAPlus CRM: Supercharge Your WhatsApp Productivity
 
 [WhatsApp CRM - WAPlus](https://waplus.io) plugin provides rich customer management features on the WhatsApp web. Whether you are individuals or businesses, it can help achieve marketing automation and service automation, and generating more business opportunities on WhatsApp. 
 
+![WhatsApp crm](http://saasbox.uncledesk.com/wp-content/uploads/2025/02/新-·-CRM.png)
+
 Tailored for sales professionals, business owners, and customer service teams, WAPlus CRM supports integration with various CRM systems, enabling you to update and view customer information without leaving the WhatsApp interface. Key features include:
 
 - Integrations: Seamlessly integrate with HubSpot, Salesforce, Zoho, and more.
@@ -38,4 +40,3 @@ Lighten your workload of WhatsApp contacts management with:
 
 - Custom Contact Profiles: Create and manage detailed custom profiles for your contacts.
 
--->
